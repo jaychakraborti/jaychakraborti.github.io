@@ -1,2 +1,2 @@
 # jaychakraborti.github.io
-My Website
+Personal website of Jay Chakraborti. Link: jaychakraborti.github.io
